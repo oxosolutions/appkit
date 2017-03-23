@@ -1,0 +1,173 @@
+/* Empty. Add your own CSS if you like */
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('../fonts/Dosis-Regular.ttf');
+}
+
+.ionList .item-content {
+    padding: 16px 10px 16px 16px;
+}
+
+.ionic-icon {
+    font-size: 30px;
+    clear: both;
+}
+
+p {
+    letter-spacing: 1px
+    
+}
+
+.portfolio_div .portflio_content h1 {
+    text-align: center;
+}
+
+.portfolio_div .portflio_content p {
+    text-align: center;
+}
+
+.center {
+    text-align: center
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    padding: 0px !important;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+}
+
+h1 {
+    font-size: 22px !important
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-align: justify;
+    padding: 10px;
+    font-family: Dosis;
+    font-size: 14px;
+}
+
+.ionList p {
+    text-align: center
+}
+
+.ionList {
+    background: #fff
+}
+
+.bar-header {
+    height: 55px;
+}
+
+.bar .title {
+    font-family: Dosis;
+    font-size: 30px !important;
+    text-align: center !important;
+    left: 0px !important
+}
+
+.button-icon {
+    color: black !important
+}
+
+.playlist h1 {
+    text-align: center;
+    padding-bottom: 0px;
+    font-size: 22px
+}
+.playlist h2 {
+    text-align: center;
+    padding-bottom: 0px;
+    font-size: 18px;
+    font-weight: 100
+}
+
+.feature_content h2 {
+    margin-top: 0px
+}
+
+.feature_content p {
+    padding: 0px 10px
+}
+
+.feature_div .feature_content {
+    width: 50%;
+    float: left;
+    padding: 10px;
+    text-align: center;
+}
+
+.feature_div .feature_content img {
+    text-align: center
+}
+
+.decoration {
+    background-color: rgba(0,0,0,0.08);
+    height: 2px;
+    background-repeat: repeat;
+    border-bottom: solid 1px #FFFFFF;
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+.contactField {
+    height: 40px !important;
+    padding-left: 10px !important;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    min-width: 100%;
+    display: block !important;
+    box-sizing: border-box;
+    background-color: rgba(255,255,255,0.4);
+    font-size: 12px !important;
+    color: #666 !important;
+    border: solid 1px #cacaca !important;
+}
+.contactTextarea {
+    margin-bottom: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    line-height: 18px;
+    height: 90px;
+    min-width: 100%;
+    display: block;
+    box-sizing: border-box;
+    background-color: rgba(255,255,255,0.4);
+    font-size: 12px;
+    border: solid 1px #cacaca;
+    color: #666;
+}
+.black-minimal {
+    color: #fff;
+    border: 1px solid #4d4d4d;
+    background-color: #454545;
+}
+.button-minimal {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 12px;
+    text-decoration: none!important;
+    padding: 10px 15px;
+    border-radius: 3px;
+    display: inline-block;
+}
+.demo-button {
+    margin-right: 3px;
+    margin-left: 3px;
+}
+.footer_content > .list > a {
+    font-size: 30px;
+    padding-right: 10px;
+}
